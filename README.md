@@ -3,7 +3,7 @@
 ## I'm a software engineer student and a software developer at InLab!
 <br>
 
-- 🔭 I’m currently working on a toolbar crypto/tokens tracker for MacOS. 
+- 🔭 I’m currently working on a crypto/tokens toolbar tracker for MacOS. 
 - 🌱 I’m currently learning software architecture.
 - 👯 I’m looking to collaborate on any project.
 - 📫 How to reach me: [website] [twitter]
