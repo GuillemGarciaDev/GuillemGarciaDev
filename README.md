@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Guillem 
 
-## I'm a software engineer student and a software developer at InLab!
+## I'm a computer science student and a software developer at InLab!
 <br>
 
 - 🔭 I’m currently working on a crypto/tokens toolbar tracker for MacOS. 
