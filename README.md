@@ -3,8 +3,8 @@
 ## I'm a computer science student and a software developer at InLab!
 <br>
 
-- 🔭 I’m currently working on a Flutter app to join open-air events (a university project). 
-- 🌱 I’m currently learning software architecture.
+- 🔭 I’m currently working on a F1 Telemetry Monitor for Codemasters videogame,
+- 🌱 I’m currently learning frontend development.
 - 👯 I’m looking to collaborate on any project.
 - 📫 How to reach me: [website] [twitter]
 
