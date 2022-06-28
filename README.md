@@ -33,7 +33,16 @@
 <br>
 <br>
 
-<img align="left" alt="GuillemGarciaDev Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuillemGarciaDev&show_icons=true&theme=buefy">
+<img align="left" alt="GuillemGarciaDev Github Stats" src="https://github-readme-stats.vercel.app/api?username=GuillemGarciaDev&show_icons=true&count_private=true">
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<img align='left' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuillemGarciaDev&layout=compact" /> 
 
 [website]: https://guillemgarcia.dev
 [instagram]: https://www.instagram.com/guillemgarcia/
